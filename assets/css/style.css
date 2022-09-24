@@ -805,7 +805,7 @@ section {
 .about .play-btn {
   width: 94px;
   height: 94px;
-  background: radial-gradient(#9165F7 50%, #503491 52%);
+  background: radial-gradient(#9165F7 50%, #5a458b 52%);
   border-radius: 50%;
   display: block;
   position: absolute;
@@ -995,7 +995,7 @@ section {
 .details .content h3 {
   font-weight: 600;
   font-size: 26px;
-  color: #2f1864;
+  color: #9165F7;
 }
 
 .details .content ul {
@@ -1702,7 +1702,7 @@ section {
 }
 
 #footer .copyright {
-  border-top: 1px solid #492c8d;
+  border-top: 1px solid #523a8a;
   text-align: center;
   padding-top: 30px;
 }
