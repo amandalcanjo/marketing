@@ -1,6 +1,7 @@
-# Marketing Influencer
+# Marketing 
 
-Link: https://marketing-influencer.netlify.app/
+## Preview Link
+- [Influencer Marketing](https://marketing-influencer.netlify.app/)
 
 ## Tech/Framework Used
 * HTML
